@@ -15,10 +15,30 @@ body {
     width: 100%;
 }
 
+img {
+    width: 150px;
+    margin: 15px;
+    margin-top: 0px;
+    margin-right: 0px;
+    border: 5px solid gray;
+}
+
+#opera {
+    border: 5px solid ;
+    padding: ;
+}
+
 #listas {
     border: 10px solid green;
     margin-top: 37px;
 }
+
+#licoes_aprendidas, #licoes_a_aprender {
+    display: inline-block;
+    margin-left: 100px;
+    border: 5px solid;
+}
+
 
 #texto {
     border: 10px solid purple;
@@ -35,14 +55,7 @@ table {
     border: 10px solid orange;
 }
 
-section {
-    
-}
 
-
-img {
-    width: 150px;
-}
 
 /*table, */th, td {
     border: 1px solid;
