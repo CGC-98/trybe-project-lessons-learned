@@ -1,3 +1,9 @@
+* {
+    margin: 0px;
+    border: 0px;
+    box-sizing: border-box;
+}
+
 body {
     background-color: rgb(253, 251, 251);
 }
@@ -9,17 +15,37 @@ body {
     width: 100%;
 }
 
+#listas {
+    border: 10px solid green;
+    margin-top: 37px;
+}
+
+#texto {
+    border: 10px solid purple;
+}
+footer {
+    border: 10px solid blue;
+}
+
+aside {
+    border: 10px solid orchid;
+}
+
+table {
+    border: 10px solid orange;
+}
+
+section {
+    
+}
+
+
 img {
     width: 150px;
 }
 
-table, th, td {
+/*table, */th, td {
     border: 1px solid;
-  }
-
-  header, section, article, footer, img{
-    border: 1px solid;
-    margin: 10px;
   }
 
   div {
