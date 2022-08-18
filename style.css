@@ -71,14 +71,13 @@ h2 , h3 {
   display: inline-block;
   width: 40%;
   margin: 3%;
-  margin-left: 10%;
+  margin-left: 8%;
 }
 
 .lado-direito {
   display: inline-block;
-  width: 22%;
+  width: 25%;
   margin-left: 6%;
-  margin-right: 0%;
 
 }
 
