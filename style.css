@@ -1,118 +1,116 @@
 * {
-    margin: 0px;
-    border: 0px;
-    box-sizing: border-box;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
 }
 
 body {
-    background-color: rgb(253, 251, 251);
-    font-family: monospace;
-    color: #8b4726;
-    line-height: normal;
+  background-color: rgb(253, 251, 251);
+  font-family: monospace;
+  color: rgb(139, 71, 38);
+  line-height: normal;
 }
 
 #cabecalho {
-    background-color: #8B8682;
-    color: #8b2500;
-    position: fixed;
-    top: 0px;
-    width: 100%;
-    text-align: center;
-    padding: 30px;
+  background-color: rgb(139, 134, 130);
+  color: rgb(139, 37, 0);
+  position: fixed;
+  top: 0;
+  width: 100%;
+  text-align: center;
+  padding: 30px;
 }
 
 img {
-    width: 150px;
-    border-radius: 15%;
-    margin-left: 4.5%;
-    margin-bottom: 3%;
+  width: 150px;
+  border-radius: 15%;
+  margin-left: 4.5%;
+  margin-bottom: 3%;
 }
+
 #opera {
-    background-color: #CDC0B0;
-    padding-left: 1.5%;
-    padding-top: 1.5%;
-    padding-bottom: 1.5%;
+  background-color: rgb(139, 37, 0);
+  padding-left: 1.5%;
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
 }
 
 #listas {
-    background-color: #EEDFCC;
-    padding-top: 117px;
-    padding-bottom: 3%;
-    line-height: 1.5em;
+  background-color: rgb(238, 223, 204);
+  padding-top: 117px;
+  padding-bottom: 3%;
+  line-height: 1.5em;
 }
 
-#licoes_aprendidas, #licoes_a_aprender {
-    display: inline-block;
-    padding-top: 2%;
-    margin-left: 8%;
-    margin-right: auto;
+#licoes_aprendidas , #licoes_a_aprender {
+  display: inline-block;
+  padding-top: 2%;
+  margin-left: 8%;
+  margin-right: auto;
 }
 
 /* DIV-END */
-
-h2, h3 {
-    line-height: 3em;
+h2 , h3 {
+  line-height: 3em;
 }
 
 #textos {
-    background-color: #EEDFCC;
-    line-height: 1.5em;
-    padding-bottom: 2.5%;
+  background-color: rgb(238, 223, 204);
+  line-height: 1.5em;
+  padding-bottom: 2.5%;
 }
 
-article.lado-esquerdo {
-    display: inline-block;
-    width: 40%;
-    margin: 3%;
-    margin-left: 10%;
+.lado-esquerdo {
+  display: inline-block;
+  width: 40%;
+  margin: 3%;
+  margin-left: 10%;
 }
 
-aside.lado-direito {
-    display: inline-block;
-    width: 22%;
-    margin-left: 6%;
-    margin-right: 0%;
+.lado-direito {
+  display: inline-block;
+  width: 22%;
+  margin-left: 6%;
+  margin-right: 0%;
 
 }
 
 h3 {
-    font-size: larger;
+  font-size: larger;
 }
 
-h3, p {
-    text-align: center;
+h3 , p {
+  text-align: center;
 }
 
 /* FOOTER */
-
 footer {
-    position: relative;
-    width: 100%;
-    left: 0%;
-    bottom: 0%;
-    background-color: #CDC0B0;
-    padding-top: 2.5%;
-    padding-bottom: 2.5%;
+  position: relative;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+  background-color: rgb(205, 192, 176);
+  padding-top: 2.5%;
+  padding-bottom: 2.5%;
 
 }
 
 table {
-    border: 5px solid #8b4726;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 2%;
+  border: 5px solid rgb(139, 71, 38);
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2%;
 }
 
-th, td {
-    font-size: large;
-    border: 3px solid;
-    width: 30px;
-    height: 30px;
-    text-align: center;
-  }
+th , td {
+  font-size: large;
+  border: 3px solid;
+  width: 30px;
+  height: 30px;
+  text-align: center;
+}
 
-  #sentido {
-    font-size: large;
-    text-align: center;
-  }
-  
+#sentido {
+  font-size: large;
+  text-align: center;
+}
