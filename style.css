@@ -6,14 +6,27 @@
 
 body {
   background-color: rgb(253, 251, 251);
-  font-family: monospace;
   color: rgb(139, 71, 38);
+  font-family: monospace;
   line-height: normal;
 }
 
+/* BACKGROUND & COLORS */
 #cabecalho {
-  background-color: rgb(139, 134, 130);
-  color: rgb(139, 37, 0);
+  background-color: rgb(139, 115, 85);
+  color: rgb(139, 69, 0);
+}
+
+#opera , footer {
+  background-color: rgb(205, 192, 176);
+}
+
+#listas , #textos {
+  background-color: rgb(238, 223, 204);
+}
+
+/* HEADER & MAIN */
+#cabecalho {
   position: fixed;
   top: 0;
   width: 100%;
@@ -29,14 +42,12 @@ img {
 }
 
 #opera {
-  background-color: rgb(139, 37, 0);
   padding-left: 1.5%;
   padding-top: 1.5%;
   padding-bottom: 1.5%;
 }
 
 #listas {
-  background-color: rgb(238, 223, 204);
   padding-top: 117px;
   padding-bottom: 3%;
   line-height: 1.5em;
@@ -49,13 +60,12 @@ img {
   margin-right: auto;
 }
 
-/* DIV-END */
+/* MID-TERM */
 h2 , h3 {
   line-height: 3em;
 }
 
 #textos {
-  background-color: rgb(238, 223, 204);
   line-height: 1.5em;
   padding-bottom: 2.5%;
 }
@@ -89,7 +99,6 @@ footer {
   width: 100%;
   left: 0;
   bottom: 0;
-  background-color: rgb(205, 192, 176);
   padding-top: 2.5%;
   padding-bottom: 2.5%;
 
