@@ -12,11 +12,6 @@ body {
 }
 
 /* BACKGROUND & COLORS */
-#cabecalho {
-  background-color: rgb(139, 115, 85);
-  color: rgb(139, 69, 0);
-}
-
 #opera , footer {
   background-color: rgb(205, 192, 176);
 }
@@ -27,6 +22,8 @@ body {
 
 /* HEADER & MAIN */
 #cabecalho {
+  background-color: rgb(139, 115, 85);
+  color: rgb(139, 69, 0);
   position: fixed;
   top: 0;
   width: 100%;
