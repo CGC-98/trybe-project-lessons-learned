@@ -1,6 +1,6 @@
 Projeto concluso, baseado no Lessons Learned pela Trybe;
 
-Teve como intuito a aplicação de fundamentos basais acerca do uso de HTML e CSS, da estruturação dá página à confecção com distintos seletores e HTML semântico.
+Teve como intuito a aplicação de fundamentos basais acerca do uso de HTML e CSS, da estruturação da página à confecção com distintos seletores e HTML semântico.
 
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
